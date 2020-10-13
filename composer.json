@@ -1,0 +1,13 @@
+{
+    "name": "celis/redsocial",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ajCelis",
+            "email": "celis28shiny@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.5"
+    }
+}
